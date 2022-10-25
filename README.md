@@ -1,19 +1,7 @@
-- 👋 Hi, I’m @Sophikitis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sophikitis/Sophikitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 ## 🚀 About Me
 - 👋 Hi, I’m @Sophikitis
-I'm a **Symfony** developer since 2018 !
-* 🏡️ I'm currently working as a freelancer !
+- I'm a **Symfony** developer since 2018 !
+- 🌱 I’m currently learning Symfony 6
 
 
 ## 👉️ Connect with me
